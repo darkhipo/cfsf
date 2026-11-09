@@ -4,7 +4,6 @@ The payload of this repository is the license wording. The text is **frozen for 
 
 What is welcome:
 
-- **Adoptions** — open an issue or PR adding your project to the Adopters list in the README.
 - **Translations** — add a `LICENSE.<lang>` file; the English text governs.
 - **Clarifications** — wording that makes the meaning clearer *without changing it*. These may land on 1.0 as documentation (README), not as license-text edits.
 - **Questions** — open an issue. If a question exposes an ambiguity, that is exactly the kind of finding this repo exists to collect.
