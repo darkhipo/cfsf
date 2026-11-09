@@ -12,13 +12,7 @@
 
 **How to apply it.** Drop the [LICENSE](./LICENSE) text into a file named `LICENSE` at your project root. Done. If your project vendors third-party code, keep that code under its own upstream terms and note the boundary (a `NOTICE` file naming each vendored portion and its license) — CFSF covers your work only.
 
-**What work can be done here.** Translations, wording clarifications that do not change meaning, and the adoption list below. The text itself is **frozen for existing adopters**: any future revision will be a new version number, never a silent edit of 1.0. Open an issue to discuss anything.
+**What work can be done here.** Translations and wording clarifications that do not change meaning. The text itself is **frozen for existing adopters**: any future revision will be a new version number, never a silent edit of 1.0. Open an issue to discuss anything.
 
 **License.** The license is licensed under itself. Naturally.
 
----
-
-### Adopters
-
-- [darkhipo/opencode-plugin-relay](https://github.com/darkhipo/opencode-plugin-relay) — first adopter.
-- BigO-Hunter org repositories (2026-11-09 onward) — AI-authored proofs and certificates released under CFSF where the org holds the rights; vendored portions keep their upstream terms.
